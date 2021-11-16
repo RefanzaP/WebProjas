@@ -1,0 +1,51 @@
+[12-Jul-2017 09:42:19 Asia/Jakarta] PHP Fatal error:  Class 'Base_m' not found in /home/wseumcom/public_html/ltdc/ci2/application/models/auth_m.php on line 7
+[12-Jul-2017 09:56:30 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date_time() in /home/wseumcom/public_html/ltdc/ci2/application/views/content/tim/analog.php on line 47
+[12-Jul-2017 09:56:42 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date_time() in /home/wseumcom/public_html/ltdc/ci2/application/views/content/tim/analog.php on line 47
+[12-Jul-2017 09:56:47 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date_time() in /home/wseumcom/public_html/ltdc/ci2/application/views/content/tim/analog.php on line 47
+[12-Jul-2017 09:57:32 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date_time() in /home/wseumcom/public_html/ltdc/ci2/application/views/content/tim/analog.php on line 47
+[12-Jul-2017 09:57:48 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date_time() in /home/wseumcom/public_html/ltdc/ci2/application/views/content/tim/analog.php on line 47
+[12-Jul-2017 09:58:05 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date_time() in /home/wseumcom/public_html/ltdc/ci2/application/views/content/tim/analog.php on line 47
+[12-Jul-2017 09:58:42 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date_time() in /home/wseumcom/public_html/ltdc/ci2/application/views/content/tim/analog.php on line 47
+[12-Jul-2017 10:02:10 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/ci2/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:02:16 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/ci2/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:02:18 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/ci2/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:03:04 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/ci2/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:04:13 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:04:59 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:05:49 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:06:22 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:06:29 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:07:38 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:10:23 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:10:50 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:16:04 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:16:53 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:17:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:19:33 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date_time() in /home/wseumcom/public_html/ltdc/admin/application/views/content/tim/analog.php on line 47
+[12-Jul-2017 10:42:49 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date_time() in /home/wseumcom/public_html/ltdc/admin/application/views/content/tim/analog.php on line 47
+[12-Jul-2017 10:43:13 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date_time() in /home/wseumcom/public_html/ltdc/admin/application/views/content/tim/analog.php on line 47
+[12-Jul-2017 10:43:21 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date_time() in /home/wseumcom/public_html/ltdc/admin/application/views/content/tim/analog.php on line 47
+[12-Jul-2017 10:43:33 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date_time() in /home/wseumcom/public_html/ltdc/admin/application/views/content/tim/analog.php on line 47
+[12-Jul-2017 10:43:34 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date_time() in /home/wseumcom/public_html/ltdc/admin/application/views/content/tim/analog.php on line 47
+[12-Jul-2017 10:43:35 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date_time() in /home/wseumcom/public_html/ltdc/admin/application/views/content/tim/analog.php on line 47
+[12-Jul-2017 10:43:35 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date_time() in /home/wseumcom/public_html/ltdc/admin/application/views/content/tim/analog.php on line 47
+[12-Jul-2017 10:43:36 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date_time() in /home/wseumcom/public_html/ltdc/admin/application/views/content/tim/analog.php on line 47
+[12-Jul-2017 10:43:36 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date_time() in /home/wseumcom/public_html/ltdc/admin/application/views/content/tim/analog.php on line 47
+[12-Jul-2017 10:43:46 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date_time() in /home/wseumcom/public_html/ltdc/admin/application/views/content/tim/analog.php on line 47
+[12-Jul-2017 10:44:10 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date_time() in /home/wseumcom/public_html/ltdc/admin/application/views/content/tim/analog.php on line 47
+[12-Jul-2017 10:45:39 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:45:43 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:46:06 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:46:09 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:46:59 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:47:58 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:49:07 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:49:30 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:50:48 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:51:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wseumcom/public_html/ltdc/admin/application/controllers/pengaturan/pengaturan.php on line 19
+[12-Jul-2017 10:52:31 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wseumcom/public_html/ltdc/admin/application/controllers/pengaturan/pengaturan.php on line 19
+[12-Jul-2017 10:53:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/wseumcom/public_html/ltdc/admin/application/controllers/pengaturan/pengaturan.php on line 19
+[12-Jul-2017 10:53:55 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:54:25 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:54:48 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
+[12-Jul-2017 10:55:11 Asia/Jakarta] PHP Fatal error:  Call to undefined function to_date() in /home/wseumcom/public_html/ltdc/admin/application/views/content/pengaturan/pengaturan.php on line 97
